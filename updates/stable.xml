@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gorillaUpdate>
+  <version>1.0.0</version>
+  <channel>stable</channel>
+  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v1.0.0/Gorilla_WWE_2K26_Mod_Manager_Setup_v1.0.0.exe</packageUrl>
+  <sha256>352E14677E04B271103E98179D6826C2B68D210E057F624169F0CFA370E1B13A</sha256>
+  <notes>Gorilla WWE 2K26 Mod Manager v1.0.0
+
+- Manage WWE 2K26 CAK mods safely.
+- Organize mods into Main Game, Clean, Recording, and Mod Test Profiles.
+- View Profiles without activating them.
+- Turn individual Gorilla-managed mods ON or OFF.
+- Mark and restore a Last Working Profile.
+- Use Mod Doctor and Find a Problem Mod for guided troubleshooting.
+- Unmanaged mods stay untouched.
+- Mod changes pause while WWE 2K26 is running.
+- Includes a beginner-friendly User Guide and update checking.
+
+Free tool by Gorilla Modding.
+Patreon: https://www.patreon.com/c/GorillaModding
+Discord: https://discord.gg/nAjKwVzRn</notes>
+  <signature>hAnL5LrTqPD2e6/KKslq+EXowNGHBz56wWSwx9dUjIx5+k4DFRZoTi8au6xM3zw8fVOKo4nFIdq7WbnhWuyqNxslekNp++zKxjhCdsFdjEiEtx1pfxjCTO/kG+oKWkQ6YARbD8BZsDBMQBmhCwAPpTb/Afki6fDi2l5SE39LcMvVlCg8MNtlOMCRxwLykTvgEMa5+ZA+gQQuu+g9EnMS0ZGtpjJwMauUGJBRvbKcnXhGEqAFhh7VWUE+AujlY/p8Zwp5DiRM9IzVc15M+BJaAV1nNg0h6Kjw78c2WV598ZPZaJDIKHKD6x4vWn9U0y9e2f4vTTEu+pQGWMmbj6Wisz5wB+Pv5dvJL+Czn98QtaqnIu+PqHQGUiS+j75nNNFnp6UiAU+Oy/5e+IQE7Yz5/39GKqTjmyOD2CIHIYBOrdgyBACjxYCHBZFUYhzpMmTN9/pnznMMY4GaCGH4gxFL20Z0aM823Tn5hv8l6Lnd7bzgaCldmFlN4SpSNA9Ixt40</signature>
+</gorillaUpdate>
