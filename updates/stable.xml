@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gorillaUpdate>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <channel>stable</channel>
-  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v1.0.0/Gorilla_WWE_2K26_Mod_Manager_Setup_v1.0.0.exe</packageUrl>
-  <sha256>352E14677E04B271103E98179D6826C2B68D210E057F624169F0CFA370E1B13A</sha256>
-  <notes>Gorilla WWE 2K26 Mod Manager v1.0.0
+  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v1.0.1/Gorilla_WWE_2K26_Mod_Manager_Setup_v1.0.1.exe</packageUrl>
+  <sha256>462D47C3C90A32745CD5AC8E23D0EA53289FCC5BC7F6953BF7B4DA5C6B53E22C</sha256>
+  <notes>Gorilla WWE 2K26 Mod Manager v1.0.1 - Emergency Save Protection Hotfix
 
-- Manage WWE 2K26 CAK mods safely.
-- Organize mods into Main Game, Clean, Recording, and Mod Test Profiles.
-- View Profiles without activating them.
-- Turn individual Gorilla-managed mods ON or OFF.
-- Mark and restore a Last Working Profile.
-- Use Mod Doctor and Find a Problem Mod for guided troubleshooting.
-- Unmanaged mods stay untouched.
-- Mod changes pause while WWE 2K26 is running.
-- Includes a beginner-friendly User Guide and update checking.
-
-Free tool by Gorilla Modding.
-Patreon: https://www.patreon.com/c/GorillaModding
-Discord: https://discord.gg/nAjKwVzRn</notes>
-  <signature>hAnL5LrTqPD2e6/KKslq+EXowNGHBz56wWSwx9dUjIx5+k4DFRZoTi8au6xM3zw8fVOKo4nFIdq7WbnhWuyqNxslekNp++zKxjhCdsFdjEiEtx1pfxjCTO/kG+oKWkQ6YARbD8BZsDBMQBmhCwAPpTb/Afki6fDi2l5SE39LcMvVlCg8MNtlOMCRxwLykTvgEMa5+ZA+gQQuu+g9EnMS0ZGtpjJwMauUGJBRvbKcnXhGEqAFhh7VWUE+AujlY/p8Zwp5DiRM9IzVc15M+BJaAV1nNg0h6Kjw78c2WV598ZPZaJDIKHKD6x4vWn9U0y9e2f4vTTEu+pQGWMmbj6Wisz5wB+Pv5dvJL+Czn98QtaqnIu+PqHQGUiS+j75nNNFnp6UiAU+Oy/5e+IQE7Yz5/39GKqTjmyOD2CIHIYBOrdgyBACjxYCHBZFUYhzpMmTN9/pnznMMY4GaCGH4gxFL20Z0aM823Tn5hv8l6Lnd7bzgaCldmFlN4SpSNA9Ixt40</signature>
+- Mod Doctor now copies and SHA-256 verifies the complete WWE 2K26 Steam save before moving any CAK.
+- If the save cannot be found or verified, diagnosis stops before any mod changes.
+- The protected save is restored between diagnosis rounds and with Restore Original Setup.
+- Current post-test save files are retained during atomic restoration instead of being deleted.
+- WWE launch is blocked if the protected backup later fails verification.
+- Mod Doctor cannot be closed while test CAKs remain separated.
+- Existing CAK profile, hash, rollback and unmanaged-mod safety behavior is unchanged.</notes>
+  <signature>oLvms9fMDRl8h+xX26aXSBbzhtnduhXEvuAkshA8R2tyI54qETX27JEECw6n6vlDlew5zkT/vxUCk1usEQphy12V8+LlxpBvD76l0oaZXJZLXDOJy11LjfYphn7041+tBz0u8Ajs1AByuYA/SdVVQWMRdQtc9vWHBjSuxc8lqIlNzT9GcndQSOIqwLKyIY15A9OfxBBeGWk+WSyfEAnOmGDQX4epZEYavQ92gkeg11agc+RaxhxlwQGguNSYU+lp+O4GbsK18orjT0V9zBMIr/VyZtDEOhV/IFgjnND9sMWaiKSJHyRQs5Ej8/URu24xRSrWH8DL/+lSaOhi7H6sYvcMh1Vy/gd4AmVTyINlRqzpVC35Uo+7xkoLPsrJdaiUDLuztF4fu2XbWkEEfmNbi2I6W80F+nA/eV52laVABB6wnesMZFAPl5aSO0LU+ShfT+lhtflpdWzurljl0FERWUKuJppH6KyiDEINBe34FKmtu0ouYTyuuRg2r5oG/gP+</signature>
 </gorillaUpdate>
