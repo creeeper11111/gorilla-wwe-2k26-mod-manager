@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gorillaUpdate>
-  <version>2.0.1</version>
-  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.1/Gorilla.Mod.Manager.26.exe</packageUrl>
-  <sha256>0078047A4447C6E895A0CB49B67B827D51B297BF4A08F58CA65D5D22518F26DD</sha256>
-  <notes>[required] Fix my game now copies your game save before your mods go off, and puts it back with one click. Without it, the game could reset your wrestlers' custom move sets, entrances and victories.
-New updates now open by themselves.</notes>
-  <signature>YN3P6RmRujCL0QjbmuqLvwFff9EpRavR5g4utbznQtJJGU7z+o9JHz3wa/LUlHA8ORLvu0sGx277dBb8Tf5MN9KZ8YUujMpblrpOnM3rg3iSL9vcmj7Edosr7e+Yj7+7FPdwsstFObYonVvOi6EVVTCL8Klby0oqQlZUtzYXCPGtEj85lfms9DP+Q2Wtr77y5q87OwltwDGqIcbkr/q014s3/BheokJaqfJkACSNTFgIUy/1kNp0gDJ2/bTm+Zpf4lKSLD41RRPDCvJfmyoFy3x6YfExGknzrOj/SGBg4KmiCLtNpNTuIpBOTx8tSbJ1YIkX7JSy4/WckWLGHvDCNTbGdBfTuJLkgZUyGf8DjAIlWKDOeK6emcuIiBrkX+/tBeooQ+UUf9jlwGfmlRqasBK8OEp/hqi06X9qbivBzAm8DuX0yxgAmubNQkqpf/hDMluJjt4U6xwawyR/kuFcVmFL35T8S9CEI6/p8OuctHEcU2WFJDDEV+/FeFZk+G15</signature>
+  <version>2.0.2</version>
+  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.2/Gorilla.Mod.Manager.26.exe</packageUrl>
+  <sha256>9A07CEECC576F75C24517F9AAA6BC4D02B94ECDDB7A649D8C57D320BEF57F926</sha256>
+  <notes>Gorilla now knows entrances and victories you already have (for example from Divas Pack 1): it does not refuse the pack and does not add them twice.
+A prop whose folder is taken by another mod now gets a free number and a folder of its own.
+Another mod's leftover files on a number no longer stop a pack: it moves to a free number.</notes>
+  <signature>Tb4kYPF6K/vOW0lX1iGv3+MVWUtXQOvSwXvrrkPe8FqNe48nY1ht+i/A/iZdRuKwiZROwaLCMTNpYwhNhRg9tsgUzR5d8y54WPnYkMV48DNswRSyUwPFrA8TYLynSCWEH4W7b+sV8vaSB+pS3bd4wgSM8kkiHewvbMjidfXleXi9+0nT8uTRAX6uqKQ17pXlMHgNfL7Zn0SGHGX+PmfjoPh/8jQjIg+ZICQpEfS0YEj+pTJ47ZTVZnZ3UrcqgMiGY1wTOo66bE2qJ79Ghx8FdY8t6z2EM3aP2z0IuT5N+dZv3cYpR1Oy4xThUZUNK+1IzdhqmA1RtH9O9zo2D+8rKJH9PYqUaGwZ/WvtSGQikua9/pbIvs7x8iN9ThSwQ4J8jRW/wv+PeQJsuzwfA/wOEVDJOJP9BDC9/PKpshwcDKjZwtYSfdvH9uhs1A6VgyF/auNVw80cnPdrW6IgUhDmXAvSBF7OrJDaiGKqJtK/W9hT3HSWhVdMllR4i9FhoC5S</signature>
 </gorillaUpdate>
