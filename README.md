@@ -19,4 +19,4 @@ Open Gorilla before WWE 2K26, choose or switch your Profile, then play.
 
 Patreon: https://www.patreon.com/c/GorillaModding
 
-Discord: https://discord.gg/nAjKwVzRn
+Discord: https://discord.gg/e9r6WPMsSF
