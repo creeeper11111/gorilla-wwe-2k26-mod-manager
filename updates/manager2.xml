@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gorillaUpdate>
-  <version>2.0.3</version>
-  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.3/Gorilla.Mod.Manager.26.exe</packageUrl>
-  <sha256>ECA91D2FBC3E4839680C845863F753520103F6767E7221AF07C9B5029FCB46A3</sha256>
-  <notes>Packs with a prop that uses the game's own materials (like Paul Bearer in the Undertaker entrance) now get a free number when theirs is taken.
-An entrance that writes its own number in a second place now moves to a free number fully.</notes>
-  <signature>jhEY1Xa9aEzvUMVQAMTQYfd2NCYtkSbxPBtsyivWT1cgvm0/NzpGTk28CcwFlIaAbNc2xmlNgAcyTPQO/FVO0YaRZtxFR3eEUuuWFTHH349RSN9ywWPlehvDBxGbF6BF5Lp+y0FOULmhATkPIougg08omV5sn1KWh7nDAdNqSkfW8z61ri9OKdNvSb/FVbrY6JavtjgOTQ0DESzv6GU5BESpgCbfX5LLmJzW/G1u3uZ616pvA1moS3YpWv1dnPoR/d8IAMZouWSSs6GcKxaRUE0MCASZUBuN4FQfHEIL2HhFPYO6XsCjQkU0CJdIpHeKv+FB9E3ymXoZJUR2ZvQWW0MCJcQA1mQbsdtZNdYuQeP1PBuXv8tyEBk1/xGyLwYtKVnu9TcQbVsyIx7QK6/bUiKkyn9HdrcEEul7aV0Pkl8BJxt21mn1zmzba1O9jCwddtxQrc5y5XT0UhwV/QXYk+l/jVl3zSZw2kv2Jw6Zjn2l2TgiXDCeIo7ZErdTPq4F</signature>
+  <version>2.0.4</version>
+  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.4/Gorilla.Mod.Manager.26.exe</packageUrl>
+  <sha256>F09F6FF9D8DA90978A747CD39ED8D5445607478419F4AF8C9B65CE3DB2DC684B</sha256>
+  <notes>[required] Protects your game save. When Fix my game, Fresh game or Test it alone turns your mods off, WWE can reset your wrestlers' move sets, entrances, victories and CAWs. Gorilla now copies your save first and puts it back by itself when your mods come back on.</notes>
+  <signature>fLgvt12YZlx/ilIek7EkHPZuG/paX+dv0d64pnAwlXwY4dQqH9Sx6mj+P9V5l4XvcLZSFEByhuhmhdAMHFgkHCt9A5TX4oGNMBzNiF59d6NmyRzqs8k5B8CWiLN61FTQIIOulGJJTNNel2waR/oDd546QZVydzEFnz+n4zN+0W4tfzytS4LkvNjPVnRlJDRTr6SlhkF0PfG/aAayWaoo/yJEzFX0f9t2Sqzl1o8DcMPcDcKomcgY+hSbCcvJAa+ih7i27QQe57TgSmUcbYzGz0ZxPmXVICOGOc4+wgIMGNZIvXVneeB9BBcOWClGdgWIdVXm2ftdTDcJ7YvygcM+lHqUt4VpVFGlUZNHTBpWQRu7W9W/c0LQBVb4PKrARaNaJIxqBx/aBIKQdkJGgkOrkVvIXCcA5rBDKFqawURSKCTPWB9Dhsk/CL7Ok0hcWc8PA/5X2jOq+SPHNRynkw5XwOH0peudHXKPEy69TCjycLP1Sq2oP3dUtG7d+L5FGZjO</signature>
 </gorillaUpdate>
