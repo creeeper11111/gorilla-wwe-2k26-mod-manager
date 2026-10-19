@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gorillaUpdate>
-  <version>2.0.4</version>
-  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.4/Gorilla.Mod.Manager.26.exe</packageUrl>
-  <sha256>F09F6FF9D8DA90978A747CD39ED8D5445607478419F4AF8C9B65CE3DB2DC684B</sha256>
-  <notes>[required] Protects your game save. When Fix my game, Fresh game or Test it alone turns your mods off, WWE can reset your wrestlers' move sets, entrances, victories and CAWs. Gorilla now copies your save first and puts it back by itself when your mods come back on.</notes>
-  <signature>fLgvt12YZlx/ilIek7EkHPZuG/paX+dv0d64pnAwlXwY4dQqH9Sx6mj+P9V5l4XvcLZSFEByhuhmhdAMHFgkHCt9A5TX4oGNMBzNiF59d6NmyRzqs8k5B8CWiLN61FTQIIOulGJJTNNel2waR/oDd546QZVydzEFnz+n4zN+0W4tfzytS4LkvNjPVnRlJDRTr6SlhkF0PfG/aAayWaoo/yJEzFX0f9t2Sqzl1o8DcMPcDcKomcgY+hSbCcvJAa+ih7i27QQe57TgSmUcbYzGz0ZxPmXVICOGOc4+wgIMGNZIvXVneeB9BBcOWClGdgWIdVXm2ftdTDcJ7YvygcM+lHqUt4VpVFGlUZNHTBpWQRu7W9W/c0LQBVb4PKrARaNaJIxqBx/aBIKQdkJGgkOrkVvIXCcA5rBDKFqawURSKCTPWB9Dhsk/CL7Ok0hcWc8PA/5X2jOq+SPHNRynkw5XwOH0peudHXKPEy69TCjycLP1Sq2oP3dUtG7d+L5FGZjO</signature>
+  <version>2.0.5</version>
+  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.5/Gorilla.Mod.Manager.26.exe</packageUrl>
+  <sha256>9A2A2692BCDBEA9D7C12116D039E93AAA9EBCA006C1A38CA0E4789D593E831E1</sha256>
+  <notes>[required] Keeps your game save safe. Fresh game and the bad mod search are paused for now: they turn your mods off while you play, and WWE 2K26 can then reset your CAWs, move sets and entrances. They come back in an update, safe. Gorilla also no longer puts a save back by itself. Everything else works as before.</notes>
+  <signature>QoKiJ8fjyXE47dfnuKw7NH5/tpZ3EAbhWjId98QAzKYivz1hP8Ma1wY1/M45+LuLDiv2vMaO5gPuoVpc4fdaRyKU6d46zqIq3B4XKq/ZDjJvwG3MhCU0HhPXdhGhLIwFIFol8qPWju4qz4eU3eLR5pgyS6UhuEnO4kVvSV+HpncfMj19nSp5jvKHbhc/FmEOLnAqQtP7U/tUlotxsNkThV4+BcthC3LbO9dYD2FCHFMZXtumoKxCB3F6cQNBT7FfvODN4Pc0ua4fWM6ebI15+AWznsiP/R0Qj96wBD3Y056AOqZ+RJb9+nqtvabSLuLoj+5Az1sGICdWMENH8iXJ/k+k972Biej1kuo2i85uG1i3tuHE4PoEaYXLVUHCcbDIOj9Q8Sgk1RqIABfkwohuQlp1K124JfoYxUqz6TieEwixMKFvBAZcjLOP/ei5Dk5UuPhnuVwHiAt6i0GaBQ675WPrFgi1MzB4TgJ8V0GLrymvK0ntoNsK5JfAxoFPDdOu</signature>
 </gorillaUpdate>
