@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gorillaUpdate>
-  <version>2.0.7</version>
-  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.7/Gorilla.Mod.Manager.26.exe</packageUrl>
-  <sha256>D90F59E5898E90C1C2A33D5C7AFEC0163A505B1C8E1C0CEDA76A3D636AEFB842</sha256>
-  <notes>[required] Gorilla's move packs: drop the pack's installer .exe (WWE All Stars 38 Finishers) on Gorilla, also with TRIBUTE Remastered. Moves a TRIBUTE update half-removed are made whole again. Tag team finisher packs keep their tag numbers. Entrance packs with pyro and props work in TRIBUTE and Discovery. A damaged mod file is now named.</notes>
-  <signature>dtVRHiRvp4c3Yq015S2QtEye5unQSIOy0G5r7zvYvAH069cv6FnzrA8mvMWbQYv74akdN1nFpcYSRk7QR0SjLKZY/J3X4YL+grKaR0CfZJd+7P4pU5pRFZHL4SpYIzJVyE2Woq07UQB/jhgH1JIs6l7u1eKdJa7vTriLh5WHshHVDtSTZCbIgoZoUICPaWPCN1f7hPn2jJYxmfqxG7pgPGTBICAT+eENMYBsPTfOZ+dNSmUT9PKrFuBN6vO3O+CErG6/0O/S5tWfW+qxM5Aaqk9TqOhHmDxJL4K6wRaA7oivCqcgM4PILCNwzRI91KZcYOYa3F3vlJvTmCse4U3MwqmotiaOx4MhNmchfayo50sUe9WSjuNfmatyDcODn0Knw8+1jK5R+s9R4n/3v1ojWdcMfgLvA/KXo6H4mR7mkHnJGhUfBxixizmF4dAH5LqXD4i7HZnZf+gGy4Y4PyT7Yb8Sf1P7SAGVAKrIaqjYRExK/0qdT4EisWsFTElERfmb</signature>
+  <version>2.0.8</version>
+  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.8/Gorilla.Mod.Manager.26.exe</packageUrl>
+  <sha256>BD84D01FA37266D0C021300C73594B9C70AE911F6C984C0E9191027DDD86FC28</sha256>
+  <notes>[required] Gorilla packs can now carry a finisher's own start action (HCTP Finishers Pack). An entrance number used only in your lists counts as taken: the pack gets a free number. Choose where new menu graphics go. TRIBUTE Remastered folder found by itself. Bake in CakeView wording.</notes>
+  <signature>R5UD9EqZ8ffF5E8SKPVyRp7ubdOl3h3ZIgXeHBnch1NhJ1UJSpEn1bRMHSmfArqPEcKM9zr54YR/aFFXr3ltM+rn/+Zzwx96ixXZOgcsdMeDWjE79vDjfE2A3OhBgU68ahp6UsTga1YU38+AKCX4Oi5alBjtfGO5+uKcBadk6cyahPTBaGySkEMpBGab8eL0aloOtkELMH7c456KMZfsOlVPxmjeJVNPIa8PFzEGcv5VHI9dzi8IoZTYpDRnfcXnLsmJww+VT4zLddfsQSYJTOMECDljZIwlo6j2Xn5gaoBlKxL0wrvPHEIYyXw954J0htKLENwTg+k9ddbL5MB/TyPdVjKEtsVSCsfvHXaeKbZ/mCc+C+9sIHBCAMeAGngQOKGRgpGEH7RSyAmz5vMblfWqPD/0CjZipOQ48uzO5lHSxDW7SqCSZyirm2NpEQ0Zp5RuQdi2xLGT99gB+4ZkIWDu8nIQyuQ1aAH62cChmhd4zO6SstmOcjjZiP3yMxi7</signature>
 </gorillaUpdate>
