@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gorillaUpdate>
-  <version>2.0.8</version>
-  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.8/Gorilla.Mod.Manager.26.exe</packageUrl>
-  <sha256>BD84D01FA37266D0C021300C73594B9C70AE911F6C984C0E9191027DDD86FC28</sha256>
-  <notes>[required] Gorilla packs can now carry a finisher's own start action (HCTP Finishers Pack). An entrance number used only in your lists counts as taken: the pack gets a free number. Choose where new menu graphics go. TRIBUTE Remastered folder found by itself. Bake in CakeView wording.</notes>
-  <signature>R5UD9EqZ8ffF5E8SKPVyRp7ubdOl3h3ZIgXeHBnch1NhJ1UJSpEn1bRMHSmfArqPEcKM9zr54YR/aFFXr3ltM+rn/+Zzwx96ixXZOgcsdMeDWjE79vDjfE2A3OhBgU68ahp6UsTga1YU38+AKCX4Oi5alBjtfGO5+uKcBadk6cyahPTBaGySkEMpBGab8eL0aloOtkELMH7c456KMZfsOlVPxmjeJVNPIa8PFzEGcv5VHI9dzi8IoZTYpDRnfcXnLsmJww+VT4zLddfsQSYJTOMECDljZIwlo6j2Xn5gaoBlKxL0wrvPHEIYyXw954J0htKLENwTg+k9ddbL5MB/TyPdVjKEtsVSCsfvHXaeKbZ/mCc+C+9sIHBCAMeAGngQOKGRgpGEH7RSyAmz5vMblfWqPD/0CjZipOQ48uzO5lHSxDW7SqCSZyirm2NpEQ0Zp5RuQdi2xLGT99gB+4ZkIWDu8nIQyuQ1aAH62cChmhd4zO6SstmOcjjZiP3yMxi7</signature>
+  <version>2.0.9</version>
+  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.9/Gorilla.Mod.Manager.26.exe</packageUrl>
+  <sha256>69D28209F13242A6133404FC3EC68C8323040511BD78B14389DA4F72A17ED4DA</sha256>
+  <notes>[required] Move packs: a number where another mod left only definitions or animations now counts as taken, so the pack gets a free number instead of "could not get a free number" (HCTP Finishers Pack).</notes>
+  <signature>FJI51dV56xJ6sCtdftbB2jkXJs+qByyKZrXMvfSVNejDDBz4gTwVpIkBxP6HyBtH6Al8U91PPemUtvQOziJ1QYCNnQQKyOmnGiDiGIT7Su0dYjNWWCQIghpRG3oUNl8Iw51Nlk7g2NAU0d1HMy56DcoDWIOgis+SmUvkgJkbhyJGoRalWACD704I3L2rxZzvaq1GUFLu0i1LVuHMeeEFYMiZUww6gg5w4MxJ+Hijb3hkzFv7azoHwkCLvVo60r18F59cSchjZ6ZHJ6gxCsnt6NyVK0TJ6FyOG0gPEUxfIT3GnEohmDqBmhOp3JANWRXrGhK//gJysXP15/xxfnlWERTBSFBWNiu84Ye8XnUH/gJl17i/heLnhTpcBnKwRUuHhPCNYde6lxUQNydWMUHlSkRW9XHvbC6L7x5W2ZRteOIH2d0oIsPmUzxry2WDPAyrjG4fCOA+tfg3eZZJINqQ25eDG19rvKm9DUJBeB1Tt84DdBzvITOYxqY9Fm2NSAK6</signature>
 </gorillaUpdate>
