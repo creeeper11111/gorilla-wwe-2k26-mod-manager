@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gorillaUpdate>
-  <version>2.0.9</version>
-  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.9/Gorilla.Mod.Manager.26.exe</packageUrl>
-  <sha256>69D28209F13242A6133404FC3EC68C8323040511BD78B14389DA4F72A17ED4DA</sha256>
-  <notes>[required] Move packs: a number where another mod left only definitions or animations now counts as taken, so the pack gets a free number instead of "could not get a free number" (HCTP Finishers Pack).</notes>
-  <signature>FJI51dV56xJ6sCtdftbB2jkXJs+qByyKZrXMvfSVNejDDBz4gTwVpIkBxP6HyBtH6Al8U91PPemUtvQOziJ1QYCNnQQKyOmnGiDiGIT7Su0dYjNWWCQIghpRG3oUNl8Iw51Nlk7g2NAU0d1HMy56DcoDWIOgis+SmUvkgJkbhyJGoRalWACD704I3L2rxZzvaq1GUFLu0i1LVuHMeeEFYMiZUww6gg5w4MxJ+Hijb3hkzFv7azoHwkCLvVo60r18F59cSchjZ6ZHJ6gxCsnt6NyVK0TJ6FyOG0gPEUxfIT3GnEohmDqBmhOp3JANWRXrGhK//gJysXP15/xxfnlWERTBSFBWNiu84Ye8XnUH/gJl17i/heLnhTpcBnKwRUuHhPCNYde6lxUQNydWMUHlSkRW9XHvbC6L7x5W2ZRteOIH2d0oIsPmUzxry2WDPAyrjG4fCOA+tfg3eZZJINqQ25eDG19rvKm9DUJBeB1Tt84DdBzvITOYxqY9Fm2NSAK6</signature>
+  <version>2.0.10</version>
+  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.10/Gorilla.Mod.Manager.26.exe</packageUrl>
+  <sha256>272CD3BEAB585E09E3FB35FE310DBD6B57F638D3699A697A0D8956C298658770</sha256>
+  <notes>[required] Move packs get free numbers also when TRIBUTE has no BACKUP_DATA copy of the game's moves list (HCTP Finishers Pack "could not get a free number"). Adding waits a moment when Windows holds a file, and a failed add now shows Windows' own error and the file name.</notes>
+  <signature>Nf5a6s0djDIXRwiMnrhgGf5D/ZL9v0Ub2N3/QJKDjz3ZPc/UWdeMsSrFCOXUAYFpHL73+G3ITmeG+w4ncJ8vx+snTW1hKp25L1IP4lKl5Ln3Kq+1qi5nHzXjzHtoBxskqdkf8Be8tw7f9YlLKchN+QC+Y/SAkfiT7rnDWcd1T/wpsdQQcNvlueIg/zrZCW9iKBT11DC/3FIWps3u13Qj4UysC791dZxsX0nwJlc1OX4817fRAl8ndzhrSjBj+fhjSKFwc8BaDLQq+4hRz8z+LI/gOCX7J/oTR5NF/rEQ+40z1QQPwPo8jH9cv3GoZae6FLlAFyfHDVFV7SaYRgD+k9dmLpeidjoyvclhdabrPjsbIKmGwJvdAQBVCRzSB72oM1z8w12C1H2hSsW2Mv3NtXfQ7BhrryODKkk4y2B9Yy3ob0V+8XWVd74dLQDjrJmjoveo7jevGLYHpjKGVS6fhJ1HUwAi03TpuDs+elLd/WO3qGxsPqt/b8d3IIgSpnq+</signature>
 </gorillaUpdate>
