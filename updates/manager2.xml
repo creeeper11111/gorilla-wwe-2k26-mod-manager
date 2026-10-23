@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gorillaUpdate>
-  <version>2.0.11</version>
-  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.11/Gorilla.Mod.Manager.26.exe</packageUrl>
-  <sha256>7467FAC9F224BC4B26350DFC1095EF79DDFEAD3126D29F52CC6585E11C9539CA</sha256>
-  <notes>[required] A move pack with a move you already have in another version (for example added by hand in TRIBUTE): yours stays and the rest of the pack comes in, instead of the whole pack being refused.</notes>
-  <signature>i0R2DndcrWPdXzCM8x0PV60gxpaGJTR/AXOZklAT/SYQmeu2Q1c+fi59+jXqKrj+j+A+9385KR89NI15Wkxq3JR8MnGg+tgvzTzaNMkMSEHPU89Cj1ma0rUWg70R/wDoQ4iIq43J0yIAODgnqFiqMHS6fk3Ek563K8ezNqBtNj01oIoroVdohp2B9iDyvZIKv4GIQ14PV3tNrt6FcyT+ELLYFqrtzgN6AkBu9PYSZ57xSoMrLETlxgkRCTVIcJxQILV3sl+Tirt2ttmkkDdS5/IutXCsnGBe/XBL56Vzb+7sDba7TQNu1WUidOX5X48uqmq518dhXyeFzkTTrfL3Q9g7bKfDwzwHYR08NRiF6rggjAA9DjoKAvAI7pAYqj6Pcaj1xSS8wyaVgasTDJSKbQgoMlZMLtqS4CHAy7Ygrp2xXh1w57kdpPfgZXtmfVliWsV+zvj5uQGYfn4KLXVB2laznzkLyrK9Zl8cUnaImWnnyc7E0tSw89GJtogJV1sS</signature>
+  <version>2.0.12</version>
+  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.12/Gorilla.Mod.Manager.26.exe</packageUrl>
+  <sha256>35CAE08B4178DD320474D0C593FEEA6E818E7B8474B6A4AE6004C94592202BEB</sha256>
+  <notes>[required] Adding a pack works on PCs where Windows refuses to rename a new file into place ("Unable to remove the file to be replaced"). A damaged .cak is now named also when it sits in the game folder or you have many mods.</notes>
+  <signature>NSN2/O56gWi5IA/zxxk2obhoMcgx9s06bmAFUrd8R3qmL+AmrLF9XqfLh+FXitpxSvdnRnJ1JQtA8tqQR3Ui71dnnW1hU8tyBaqEBDu2pTyKVdhgKiix4Q+c3V1UYr3s+Arjuwa2PTSMEPZnWJrVUXtmfc8+r2xPjqszB5x9k9S8CVmskjQFCn4gl0n1cic1yCAEnbjOSVWtZfOXWuqrwlAwnIxcaBgwDlTcbXP7yoFrwq9ME+WsCx5Omk5u4MrmCIYYymsWkTbCCfisTtehtoXjuWYh3X4ioiLZrn4MBvpgnTDKWP8iUJWPX7aboUMhUwrOkxWgWJ7613EKqlE/qDLJSchEO6tiK8Pot/BxBBBPPeCutxfpiQEjmHtAiKyYLqrazJ+wFgo1TqMExeJeM+kHy9ebzCAUjdTPrTScye30hEn5B7Cp5JdcbQzK0jZsLLW9GpbbZgY2o8Z/bpK5FWYWCTdzAXE/TqnmQ+CNYiJoc095uGqvgp5RB4b3EusL</signature>
 </gorillaUpdate>
