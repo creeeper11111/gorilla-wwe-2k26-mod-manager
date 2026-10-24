@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gorillaUpdate>
-  <version>2.0.12</version>
-  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.12/Gorilla.Mod.Manager.26.exe</packageUrl>
-  <sha256>35CAE08B4178DD320474D0C593FEEA6E818E7B8474B6A4AE6004C94592202BEB</sha256>
-  <notes>[required] Adding a pack works on PCs where Windows refuses to rename a new file into place ("Unable to remove the file to be replaced"). A damaged .cak is now named also when it sits in the game folder or you have many mods.</notes>
-  <signature>NSN2/O56gWi5IA/zxxk2obhoMcgx9s06bmAFUrd8R3qmL+AmrLF9XqfLh+FXitpxSvdnRnJ1JQtA8tqQR3Ui71dnnW1hU8tyBaqEBDu2pTyKVdhgKiix4Q+c3V1UYr3s+Arjuwa2PTSMEPZnWJrVUXtmfc8+r2xPjqszB5x9k9S8CVmskjQFCn4gl0n1cic1yCAEnbjOSVWtZfOXWuqrwlAwnIxcaBgwDlTcbXP7yoFrwq9ME+WsCx5Omk5u4MrmCIYYymsWkTbCCfisTtehtoXjuWYh3X4ioiLZrn4MBvpgnTDKWP8iUJWPX7aboUMhUwrOkxWgWJ7613EKqlE/qDLJSchEO6tiK8Pot/BxBBBPPeCutxfpiQEjmHtAiKyYLqrazJ+wFgo1TqMExeJeM+kHy9ebzCAUjdTPrTScye30hEn5B7Cp5JdcbQzK0jZsLLW9GpbbZgY2o8Z/bpK5FWYWCTdzAXE/TqnmQ+CNYiJoc095uGqvgp5RB4b3EusL</signature>
+  <version>2.0.13</version>
+  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.13/Gorilla.Mod.Manager.26.exe</packageUrl>
+  <sha256>46B58973AECDE6CF995B84B57AB293E223F0D64A347E46C7E47200B52D6789E6</sha256>
+  <notes>[required] Adding packs no longer fails at a random file on some PCs. New: Restore to before a change (Go back), Send report (Fix my game), manual install files in Make a pack, finishers with their own start action can be removed, and Update my move file for Discovery after a game update. My TRIBUTE now shows everything.</notes>
+  <signature>TFcpg8snAAGtRa5PXKJRITcaz0Onyv0uwdIWW3rZEFn5Ei+mZLRu4FY3BVLoeuwPS+aGnWgvyEQFuM7hbB0mcg3C/TSgkTMY0N/iS4FQ5fqz1Ft/jY2Z4xYabHSwxOAoXyhUDoC42jegGgvspMxg3u100JY1ZLm1JCh6KoQent+P7TXYcLr2UdaPj9D7JZQ4HRbXLsB7oLwxxPJlNGBRni/1Cytx4CPk1pZmppGwdmGgf7A97WJXMb0a9UiGNNIzoM1XLf17QlqOlKajNZbBwhT951rnz2EgzZRhJANhzCHGbZASFciMVxV0bAAogU9/qWscWzmjsy+ECTaMP8Z6ozJuY2GRTsKGzI+Wgndr0Kp5GqtZZuyG05PpQa/dvU12y58AXFbEUDB9/9o93xnF7ha2BCOjnjfyWmzDwyP8on/3xiCVannnktAaNnrQA15+6cI3bOKA951hIK1p7yGsxdKu65eQEU88KIc6nQbsPLd8Daf3/BizgmvQkPk2JI5e</signature>
 </gorillaUpdate>
