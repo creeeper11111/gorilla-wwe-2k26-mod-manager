@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gorillaUpdate>
+  <version>2.0.13.2</version>
+  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.13.2/Gorilla.Mod.Manager.26.exe</packageUrl>
+  <sha256>0708CAAF5569062F59FDD1556858F7B40EC6C4F4E84E7BF610FBF619A07C2F0B</sha256>
+  <notes>Fix build for Discovery: old Discovery data no longer blocks adding a pack; your own Discovery bakes are skipped; a mod file Gorilla cannot read is named; Update my move file works with a move held twice; fix codes.</notes>
+  <signature>g6vJ2CY/fyiYSyg0rJ6xA2foojtsJW48h0g/1fX7IZBGUTNoR84EPjpktjg3g91yoYB0kajv8VcAszxGtP0tc+MDaqLMc0kDVfsLyiB2I79TjILhPNxP2DdHppHV8eE65hP6qnjblonxErydf8Pg83Y4odLW7+FS4VNOv6d+lAlyLtTYVpsV2vph1Id+FZjRgM6tpIKvcCQnKUVd0zw2ag54LELsKMBsMs3YmlIk9TRPMHCqIeWkTQQgwvlwhedRGPg2/YjRZpGHoviOG0K9Cww4mjlOlHaUL01vuEybUPEaihZRrvY6hHDYmmRW2KSsiPNmgmaBztxiZOrj/cu0apsoKb/DLrRsAUkhX8eopo28YiHt4MiGOflbnW5vrBNZWODuFK9cxE2GmW/AM598PaDPLSR8ii3VCjIL2wF2ymASAVf0e8f9mzEUfUbOPhn4/HjeJ1pPksrOYeFnprgr+vg7Z9ahY1tTkcaPMH7k+yIdg61bhHHEYJADVwmhazRD</signature>
+</gorillaUpdate>
