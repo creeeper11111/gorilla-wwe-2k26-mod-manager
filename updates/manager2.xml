@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gorillaUpdate>
-  <version>2.0.13</version>
-  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.13/Gorilla.Mod.Manager.26.exe</packageUrl>
-  <sha256>46B58973AECDE6CF995B84B57AB293E223F0D64A347E46C7E47200B52D6789E6</sha256>
-  <notes>[required] Adding packs no longer fails at a random file on some PCs. New: Restore to before a change (Go back), Send report (Fix my game), manual install files in Make a pack, finishers with their own start action can be removed, and Update my move file for Discovery after a game update. My TRIBUTE now shows everything.</notes>
-  <signature>TFcpg8snAAGtRa5PXKJRITcaz0Onyv0uwdIWW3rZEFn5Ei+mZLRu4FY3BVLoeuwPS+aGnWgvyEQFuM7hbB0mcg3C/TSgkTMY0N/iS4FQ5fqz1Ft/jY2Z4xYabHSwxOAoXyhUDoC42jegGgvspMxg3u100JY1ZLm1JCh6KoQent+P7TXYcLr2UdaPj9D7JZQ4HRbXLsB7oLwxxPJlNGBRni/1Cytx4CPk1pZmppGwdmGgf7A97WJXMb0a9UiGNNIzoM1XLf17QlqOlKajNZbBwhT951rnz2EgzZRhJANhzCHGbZASFciMVxV0bAAogU9/qWscWzmjsy+ECTaMP8Z6ozJuY2GRTsKGzI+Wgndr0Kp5GqtZZuyG05PpQa/dvU12y58AXFbEUDB9/9o93xnF7ha2BCOjnjfyWmzDwyP8on/3xiCVannnktAaNnrQA15+6cI3bOKA951hIK1p7yGsxdKu65eQEU88KIc6nQbsPLd8Daf3/BizgmvQkPk2JI5e</signature>
+  <version>2.0.14</version>
+  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.14/Gorilla.Mod.Manager.26.exe</packageUrl>
+  <sha256>1CB18B0FC5AD9568AC5FB5F6B02C1AFEC3D7DA34EABEF953C1D9D1F4388483B3</sha256>
+  <notes>[required] Ready for the 28 October game update: Gorilla knows its 62 new moves and 11 new wrestlers. Custom moves gone after TRIBUTE&apos;s update? Fix my game now tells you, and dropping your Gorilla move packs again brings them back on their own numbers. New: finishers with their own start action (Pop Off), moves from other animation banks keep their own sounds, whole BakeMe restore points on Go back.</notes>
+  <signature>Li1uhj484gMpbfkFILfd8EApHUESL9RYncT9OmD4x1BelwYeZV0OA05pDvUtV8HYbd6oW3th2vdoTdhRz9340v18gLN+fnRmBZaJxW0rCVmU5+00wn1vpLon6M9t0AfEuG36baGZVSYPCBNGuXt9evR4pHUq238xQ69eYgzeZP2MpnYHCwNE8X+tEERmxmjhJI4xypY1KkneJbLgdckMBQrbno/yfDU3bklmMycjOJK5X2XptJ70gNmfQE2u4MNkUiH7rKuaJEqFafGZqvc3i8aUygKFxA8nHPS2IYz4zwPLNOxqgJWUz36k4mtjp+wMDC1nqyDjBiI8VPBfcSG1yItsiIuRe5M8Rnvez/GilR4dnbogHBjJsdTMvMX3pZZ7+cMyp9aZxEl8A4FgUJwWMedfaTt0OwK0Bow/1ZjHcRh2hXEqfbJFFHztmFm/aZtCtmnaViRuXT1LyX7U2ThvQafIDnlBnP+n9e1jaUkIpUY62nts2QzxgokDCqC5HVSo</signature>
 </gorillaUpdate>
