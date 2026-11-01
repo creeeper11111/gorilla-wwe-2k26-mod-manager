@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gorillaUpdate>
-  <version>2.0.15</version>
-  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.15/Gorilla.Mod.Manager.26.exe</packageUrl>
-  <sha256>04A94510FDB16E92A73A0D70245FBA56667ABEDBCE524E28DEF9BEF06268878B</sha256>
-  <notes>[required] Discovery: Gorilla reads the moves list as Discovery saves it after its update (no more &quot;layout I don&apos;t know&quot; or &quot;Move list readback failed&quot;), and a paired move that needs a free number goes in too (no more &quot;Unmapped move hash reference&quot;). A pack whose older version left files behind after TRIBUTE&apos;s update is added again: Gorilla asks once and keeps your old files in Gorilla Backups.</notes>
-  <signature>LtC9bx9REk2pt1XCKvy0hoVZhQAGKXkBCZElY8+lIDORhURM79eb4zY6elR7B89/leiVXfuiOtnRxxr4r361NldYJij8ANODZN2i8xCykkPv3CaXyGQfckpsqWfrCMz5Tq5rP3CR0cpLR0invRp8u0IHW1Ahyn6YFkPLqE6iyEsDPEKGznVVaW3/jkE9REeVBxVT1Mmti7vDarka1CszvrRsJ99EcyxyADAdzbYJSJnmVyIJypBbgbkld9TcUtpeWOgHBuNsz6xBd+9JcXxvMqDrVgC9kPUZnMhbuqm1osmaL8Dj3ZSaC+jZHahR9746E5fV0gsQYcjeMvvJiaJKukKyd3wBV8GvHGdDkU05dE8abFMt8V5mQnsNof7tQPTCK3WHwcNd74gknwSRT2qyVLseFpYG1ua0XGnMkvBhtZnGUroSmBkqdcL5gtMAO/NnWyeSMnLnVp7jXjx7JHI29ErhHageNMSh+oWVJzjtgLT/RVPunqZ9SISe+Jb0jGza</signature>
+  <version>2.0.16</version>
+  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.16/Gorilla.Mod.Manager.26.exe</packageUrl>
+  <sha256>13EF52B3172EC8954F99CB1A79B82B8F26C6A44028EB982DEFF2D97BDF8CEB7A</sha256>
+  <notes>[required] New: packs with custom entrances that keep their commentary, title entrances, arena switches and their own sound, in TRIBUTE and Discovery. Discovery: victory packs (After the Bell and others) go in again when Discovery saved your menu lists in its newer layout. Newest first now really shows what you added last. Gorilla no longer calls your bake broken while it is still baking.</notes>
+  <signature>FbtvKTbOSSWNte9/06L1u9dFM3ThTkM1JYNUOfCIgtr5/o5ME1aRI9Rnf+AirCW7ecRzmYADeK5s342AYC8zlcM8koAvHYvE0bi83WXnIUf6ehlzaSHORiujlR3lR/OAW/CfpxLwOBlDGtFhguc6ocTmbTTbkcweY0HsRBCIL5WmuQO3il7PMbT4Ybf3ZmEuNxL+Tl+rFiqBCbwCrvwmK8j4lQ4OO07bCkGCAOzIxWqU5v3CAkHCzaJU8CINfwvvvt511H2HbCc8k+gJOplyIeTR5k5muYBS+S0jpVoNXLHyXRi67tlDDx7QnB1Os1ANHIH9MZ2A1DeujT5noS27waRDMD9Fmmn/Ftw3eKJrX5a8cOCphS5fZMwV68a3/UnQfV9OqXkd3ARzTo3U0IQ+x4XyIBtE+kHNAhIc95domSSMRLd7L88tD6Uft5Av0tgDjGIuVVQO6gtl9arIhXouANOIVp1xVS8g7Y+UZmeQvHxNzfF6Xp/k1Q3SRVI22QW3</signature>
 </gorillaUpdate>
