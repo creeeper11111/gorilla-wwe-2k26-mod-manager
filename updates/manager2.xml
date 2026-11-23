@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gorillaUpdate>
-  <version>2.0.18</version>
-  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.18/Gorilla.Mod.Manager.26.exe</packageUrl>
-  <sha256>E6D7D3977915A500E59AD5628BA272BDDB4AF5CBB111335AFBF2063C0B38DE44</sha256>
-  <notes>[required] Tag team entrances: packs can now carry tag entrances, in TRIBUTE and Discovery (needed for the Nitro and Melina Tag Entrance). Move packs go in again when TRIBUTE's update deleted your move file, and on Discovery when its data folder is missing a game list. Older mods that go over a game entrance or victory now say which one they replace. Fix my game finds invisible props with an emptied material file.</notes>
-  <signature>Gy8MPRs8rNMdJXYvH7KHW7B1rGvLBwjNTv49euLAL1B+FLclau44ciNYB/PkWhlIDscC6Xglw4mMC+FuSSBWKlo+a6M7xK1G2Wv40jRNdMN6qe3+zQeiZa0DbDXDpqk7Zr2QWFUukzNfpifvflkg7EHwyFuaE6fqUI2cr82Ts12tcrx7zIG3NmropNmTqWRskxaweTLsW0vUpCgVpNpMkwXuXq718wuMt9EP9o38UekxbJUj5WGoIofSz9HERGeruYgFnK4uW3SkvPLiEdDtRrbxr3XhkVjuE8WK0LTBVZ4OuEZSlp58Wyh2DFOZDI1M/lc1GFAUxrdzBooJJoSK5QN0GVtdFwND0savliOg/ujfo0//K0cY/q8VAVqH8iOF4OWYuT0qYo4hTWBzYA4tnJbJ9bhsT6Qf1fVuaLCIzctd0+rVWSDdKHD5NghBlW8FxUDWI8CoBwGDGM3thqnPLEVH05+uBI/JRv1+ZSWgWeovxt6JQYfNmbq/G7/gTGTr</signature>
+  <version>2.0.19</version>
+  <packageUrl>https://github.com/creeeper11111/gorilla-wwe-2k26-mod-manager/releases/download/v2.0.19/Gorilla.Mod.Manager.26.exe</packageUrl>
+  <sha256>92B98AF6760AD3D76004318334D255D9E89192F0B1E9F6E6062D9ACCA1AE4EF8</sha256>
+  <notes>[required] Works with the WWE 2K26 game update of 20 November: My TRIBUTE lists your own moves, entrances, victories and weapons again (it said "I can't list your moves yet"), and packs know the new game version.</notes>
+  <signature>mi/fLBhqurvkvOMZKivEqhU/2vQw0nhK6Cg+M1qDcHXS3zq1rjR0FudaWVhdHjqwwqv/uGK+8n2M2S7eg9u2XHoM5ISaOvenz05EsixtPtxJQSx31l3EPOQsQSdTin9pPrfAjeI0aJeOt+fxlAsX8hpIiX3BFNWB7WsP1oKjkbpRegMT7PGjd12HM+Ba4Uc+BNmYH9U6XIbBAwGTUmtrIFPpX6csoD9djcsK78XfsKqEJ4HZ/0bYP66/z6QeyflAu4r4WGAAEfHJfueCgud3OyqkHyg0BbTlc6xK01MpD6UAfKtRb7IUypYhUYIwDCuVyYUkPSnJ8lDer6n6qAv/yzNuFE7G1Ry5NZaOPUrhA3ary48Eobp/xgvu/tlnpPTJjR091OsCQJJALjnDRn+i9tbf7UwNwLwFmg0XPBWT+Dk00ysFzCh7jBWYF0EJNWnXIn7iquSFHc2jelJvsya5vZLX1OEeL3115vFKf7a8QAv3CTY41SasmOR3he4KGs1i</signature>
 </gorillaUpdate>
